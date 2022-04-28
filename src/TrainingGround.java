@@ -16,8 +16,8 @@ public class TrainingGround {
                 enemy.takeDamage(i.getDamage());
             } else {
                 break;
-                    }            
-                }    
-            }         
-        }
+                }            
+            }    
+        }         
     }
+}

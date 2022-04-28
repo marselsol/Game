@@ -17,10 +17,6 @@ public class Enemy implements Mortal {
         return health > 0;
     }
 
-
-
-
-
     public String getName() {
         return name;
     }

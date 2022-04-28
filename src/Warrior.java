@@ -7,5 +7,4 @@ public class Warrior extends Hero {
     public void attackEnemy(Enemy enemy) {
         System.out.println(getName() + " атакует " + enemy.getName() + " топором.");
     }
-
 }
